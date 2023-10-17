@@ -1,3 +1,4 @@
+//Problem Statement :If  number is less than 10 then print "Hello" otherwise print "Demo" . 
 #include<stdio.h>
 void Display(int iNo)
 {

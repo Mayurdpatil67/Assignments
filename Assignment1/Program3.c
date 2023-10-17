@@ -1,3 +1,4 @@
+//Problem Statement :Print 5  to 1 number on screen .
 #include<stdio.h>
 
 void Display()

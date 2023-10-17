@@ -1,3 +1,4 @@
+//Problem Statement :Conver case of that charachter .
 #include<stdio.h>
 #include<ctype.h>
 

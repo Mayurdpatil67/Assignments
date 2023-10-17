@@ -1,3 +1,4 @@
+//Problem Statement : Display first number in second number of times .
 #include<stdio.h>
 void Display(int iNo, int frequency)
 {

@@ -1,3 +1,4 @@
+//Problem Statement :Print that number of * on screen .
 #include<stdio.h>
 
 void Accept(int iNo)

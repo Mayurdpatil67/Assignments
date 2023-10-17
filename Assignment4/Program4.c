@@ -1,3 +1,4 @@
+//Problem Statement :Return summation of all its non factors .
 #include<stdio.h>
 int SumNonFact(int iNo)
 {

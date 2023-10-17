@@ -1,3 +1,4 @@
+//Problem Statement :Return difference between summation of all its factors and non factors .
 #include<stdio.h>
 
 int FactDiff(int iNo)

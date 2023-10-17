@@ -1,3 +1,4 @@
+//Problem Statement : print even factors of that number .
 #include<stdio.h>
 
 void DisplayEvenFactor(int iNo)

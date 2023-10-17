@@ -1,3 +1,4 @@
+//Problem Statement :Display its multiplication of factors .
 #include<stdio.h>
 
 int MultFact(int iNo)

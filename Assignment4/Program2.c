@@ -1,4 +1,5 @@
-#include<stdio.h>
+//Problem Statement : Display its factors in decreasing  order .
+#include<stdio.h>                                       
 
 int FactRev(int iNo)
 {

@@ -1,3 +1,4 @@
+//Problem Statement :Chechk whether that charachter is vowel (a,e,i,o,u) or not .
 #include<stdio.h>
 typedef int BOOL;
 #define TRUE 1
@@ -9,7 +10,7 @@ BOOL Chkvovel(char cChar)
  
  {
     return TRUE;
- }
+ }s
  else 
  {
     return FALSE;

@@ -1,3 +1,4 @@
+//Problem Statement :Display all its non factors .
 #include<stdio.h>
 
 int NonFact(int iNo)

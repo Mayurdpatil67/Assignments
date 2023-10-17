@@ -1,3 +1,4 @@
+//Problem Statement : Check whether number is even or odd .
 #include<stdio.h>
 
 #define TRUE 1
