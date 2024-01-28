@@ -1,4 +1,3 @@
-//Problem Statement : Whether is it divisible by 5 or not . 
 #include<stdio.h>
 
 

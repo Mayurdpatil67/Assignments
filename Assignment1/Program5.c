@@ -1,9 +1,8 @@
-//Problem Statement :Print that number of * on screen .
 #include<stdio.h>
 
 void Accept(int iNo)
 {
-auto int iCnt=0;
+ int iCnt=0;
 for (iCnt=1;iCnt<=iNo;iCnt++)
   {
        printf("*");
@@ -13,7 +12,7 @@ for (iCnt=1;iCnt<=iNo;iCnt++)
 int main ()
 {
  
-  auto int iValue =5;
+   int iValue =5;
 
    Accept(iValue);
 

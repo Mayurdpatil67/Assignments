@@ -1,4 +1,3 @@
-//Problem Statement : Check whether that number is greater than 100 or not .
 #include<stdio.h>
 
 typedef int BOOL;
@@ -16,7 +15,7 @@ BOOL ChkGreater(int iNo)
 
 int main()
 { 
-    auto int iValue =0;
+     int iValue =0;
     BOOL bRet =FALSE ;
 
     printf("Enter number \n");
@@ -37,3 +36,5 @@ int main()
     return 0;
 
 }
+
+// Time Complexity : O(1)

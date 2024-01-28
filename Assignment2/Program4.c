@@ -1,8 +1,7 @@
-//Problem Statement : Display first number in second number of times .
 #include<stdio.h>
 void Display(int iNo, int frequency)
 {
-   auto int iCnt=0;
+    int iCnt=0;
    for(iCnt=1;iCnt<=frequency;iCnt++)
    {
       printf("%d",iNo);
@@ -12,8 +11,8 @@ void Display(int iNo, int frequency)
 }
 int main ()
 {
-   auto int iValue=0;
-   auto int iCount=0;
+    int iValue=0;
+    int iCount=0;
 
     printf("Enter number\n");
     scanf("%d",&iValue);

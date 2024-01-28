@@ -1,10 +1,9 @@
-//Problem Statement :Print that number of even numbers on screen .
 #include<stdio.h>
 
 void PrintEven(int iNo)
 {  
- auto int iCnt=0;
- auto int iEven=2;
+  int iCnt=0;
+  int iEven=2;
  
     if(iNo<=0)
  {
@@ -27,7 +26,7 @@ void PrintEven(int iNo)
 int main ()
 {
   
- auto int iValue=0;
+  int iValue=0;
 
  printf("Enter number\n");
  scanf("%d",&iValue);

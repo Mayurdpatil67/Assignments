@@ -1,9 +1,8 @@
-//Problem Statement :Print that number of * on screen .
 #include<stdio.h>
 
 void Display(int iNo)
 {
-    auto int iCnt=0;
+     int iCnt=0;
 
     for(iCnt=1;iCnt<=iNo;iCnt++)
     {
@@ -15,7 +14,7 @@ void Display(int iNo)
 int main ()
 {
 
-  auto int iValue =0;
+   int iValue =0;
 
   printf("Enter number \n");
   scanf("%d",&iValue);

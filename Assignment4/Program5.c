@@ -1,12 +1,11 @@
-//Problem Statement :Return difference between summation of all its factors and non factors .
 #include<stdio.h>
 
 int FactDiff(int iNo)
 {
-    auto int iCnt =0 ;
-    auto int iSum =0;
-    auto int iSumX=0;
-    auto int iDiff=0;
+   int iCnt =0 ;
+   int iSum =0;
+   int iSumX=0;
+   int iDiff=0;
 
     for(iCnt=1;iCnt<iNo;iCnt++)
      {
@@ -27,8 +26,8 @@ int FactDiff(int iNo)
 
 int main()
 {
-    auto int iValue=0;
-    auto  int iRet =0;
+   int iValue=0;
+    int iRet =0;
    
     printf("Enter number\n");
     scanf("%d",&iValue);
@@ -40,3 +39,6 @@ int main()
     return 0;
 
 }
+
+
+// Time Complexity : O(N)

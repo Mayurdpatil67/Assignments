@@ -1,5 +1,3 @@
-//Problem Statement : Accept two numbers and check whether numbers are equal or not .
-
 #include<stdio.h>
 
 typedef int BOOL;
@@ -16,7 +14,7 @@ BOOL ChkEqual(int iNo1 ,int iNo2)
 } 
 int main()
 {   
-     auto int iValue1=0 , iValue2=0;
+      int iValue1=0 , iValue2=0;
      BOOL bRet =FALSE;
 
      printf("Please enter two numbers \n");
@@ -42,3 +40,5 @@ int main()
 
 
 }
+
+// Time Complexity : O(1)

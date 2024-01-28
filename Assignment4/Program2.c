@@ -1,9 +1,8 @@
-//Problem Statement : Display its factors in decreasing  order .
 #include<stdio.h>                                       
 
 int FactRev(int iNo)
 {
-   auto int iCnt=0;
+    int iCnt=0;
   
    for(iCnt=(iNo/2);iCnt>0;iCnt--)
       {
@@ -17,7 +16,7 @@ int FactRev(int iNo)
 }
 int main ()
 {
-    auto int iValue=0;
+     int iValue=0;
     
 
     printf("Enter number\n");
@@ -28,3 +27,4 @@ int main ()
      return 0;
 
 }
+// Time Complexity : O(N)

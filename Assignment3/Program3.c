@@ -1,9 +1,8 @@
-//Problem Statement : print even factors of that number .
 #include<stdio.h>
 
 void DisplayEvenFactor(int iNo)
 {
-    auto int iCnt=0;
+     int iCnt=0;
 
     if(iNo<=0)
     {
@@ -21,7 +20,7 @@ void DisplayEvenFactor(int iNo)
 
 int main()
 {
-    auto int iValue =0;
+     int iValue =0;
 
     printf("Enter number \n");
     scanf ("%d",&iValue);

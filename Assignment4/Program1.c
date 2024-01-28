@@ -1,11 +1,10 @@
-//Problem Statement :Display its multiplication of factors .
 #include<stdio.h>
 
 int MultFact(int iNo)
 {
 
-   auto int iCnt =0;
-   auto int iMul=1;
+   int iCnt =0;
+   int iMul=1;
 
   for(iCnt=1;iCnt<iNo;iCnt++)
    {
@@ -22,8 +21,8 @@ int MultFact(int iNo)
 
 int main ()
 {
-  auto int iValue=0;
-  auto int iRet =0;
+  int iValue=0;
+  int iRet =0;
 
 
   printf("Enter number \n");
@@ -37,3 +36,4 @@ int main ()
     return 0;
 
 }
+// Time Complexity : O(N)

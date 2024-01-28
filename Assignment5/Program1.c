@@ -1,5 +1,3 @@
-//Problem Statement : Accept name and print that name .
-
 #include <stdio.h>
 
 int main() 
@@ -13,3 +11,5 @@ int main()
 
     return 0;
 }
+
+// Time Complexity : O(N)

@@ -1,4 +1,3 @@
-//Problem Statement : Check whether number is even or odd .
 #include<stdio.h>
 
 #define TRUE 1
@@ -21,8 +20,8 @@ BOOL CheckEven(int iNo)
 }
 int main()
 {  
-    auto int iValue =0;
-    auto BOOL bRet =FALSE;
+     int iValue =0;
+     BOOL bRet =FALSE;
     
     printf("Enter number\n");
     scanf("%d",&iValue);

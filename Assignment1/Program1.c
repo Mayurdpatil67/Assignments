@@ -1,9 +1,8 @@
-//Problem Statement : Devide two numbers . 
 #include<stdio.h>
 
 int Divide (int iNo1 , int iNo2)
 {
-  auto  int iAns =0;
+    int iAns =0;
     if (iNo2==0)
     {
         return -1;
@@ -15,8 +14,8 @@ int Divide (int iNo1 , int iNo2)
 }
 int main ()
 {
-     auto int iValue1 =15 , iValue2 =5 ;
-     auto int iRet =0 ;
+     int iValue1 =15 , iValue2 =5 ;
+     int iRet =0 ;
 
       iRet =Divide (iValue1,iValue2);
 
